@@ -14,7 +14,7 @@ Based on the project description of an **online store** web application, the tas
 2. **Analyzing the requirements and UI mockups for the "Online Store" web application**  
    https://docs.google.com/spreadsheets/d/1OlYeqTv5dXoCfrpDPvJXEjD4xofi1MqBPlsCPa6LZZ8/edit?gid=0#gid=0
 
- ## 📌 Project Description
+ ## Project Description
 
 The online store is a **web application** https://demoshopping.ru/ that allows users to:
 - Register and log in;
